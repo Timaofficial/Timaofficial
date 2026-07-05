@@ -1,3 +1,39 @@
-Building Nexus Forum — a secure, modular community platform for Roblox.
-Designed with zero-trust architecture, DataServiceTyped, and Discord integration.
-No RemoteEvent spam. Clean UI. Real data. Follow the progress here.
+# Nexus Forum
+
+A modular, secure, and scalable community platform for Roblox games.
+
+Built with a zero-trust architecture. No RemoteEvent spam. Data flows through profile-based synchronization. The UI is minimal, the backend is solid.
+
+## What I am building
+
+- Modular framework with Loader, Main, Client, and Server separation
+- Profile-based DataStore integration using DataServiceTyped
+- Real-time data observation without insecure RemoteEvent calls
+- Discord Webhook logging and bot integration
+- Clean, responsive UI with a consistent design system
+
+## Discord
+
+Join the official server for updates, testing, and early access:
+
+https://discord.gg/VqmKMbwGnR
+
+## Status
+
+Active development. Major features implemented. The core architecture is stable and ready for expansion.
+
+## Tech Stack
+
+- Roblox Lua
+- DataServiceTyped
+- Cloudflare Workers (optional backend)
+- Discord Webhooks
+- Custom SVG design system
+
+## Author
+
+Tima
+
+---
+
+Follow this project for progress updates. The forum is being built from the ground up.
