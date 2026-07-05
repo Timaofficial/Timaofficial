@@ -22,14 +22,6 @@ https://discord.gg/VqmKMbwGnR
 
 Active development. Major features implemented. The core architecture is stable and ready for expansion.
 
-## Tech Stack
-
-- Roblox Lua
-- DataServiceTyped
-- Cloudflare Workers (optional backend)
-- Discord Webhooks
-- Custom SVG design system
-
 ## Author
 
 Tima
